@@ -1,0 +1,45 @@
+.header{
+    background-color: #e35a42;
+    padding: 5px;
+}
+h1{
+    text-align: center;
+    font-size: 30px;
+    font-family: cursive;
+    color: white;
+    font-weight: 300;
+}
+h1 span{
+    font-size: 32px;
+    color: #047179;
+}
+.ans, .button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ans h2{
+    background-color: #9f9f04;
+    padding: 150px 200px;
+    text-align: center;
+    align-items: center;
+    font-size: 40px;
+    font-weight: 400;
+    color: white;
+}
+button{
+    margin: 20px;
+    padding: 20px 80px;
+    font-size: 40px;
+    font-weight: 900;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    color: white;
+}
+.btn1{
+    background-color: purple;
+}
+.btn2{
+    background-color: orangered;
+}

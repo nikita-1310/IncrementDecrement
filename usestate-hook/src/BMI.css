@@ -1,0 +1,40 @@
+.header{
+    background-color: #757575;
+    padding: 10px;
+}
+h2{
+    text-align: center;
+    color: #940606;
+    font-size: 28px;
+    font-weight: 800;
+    font-family: cursive;
+}
+.values, .btn, .answer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.values div{
+    margin: 40px;
+}
+.values input{
+    padding: 10px 40px;
+    border-radius: 10px;
+    font-size: 30px;
+}
+button{
+    background-color: #757575;
+    padding: 15px 40px;
+    font-size: 30px;
+    border: none;
+    cursor: pointer;
+    color: #940606;
+    font-weight: 600;
+}
+.answer h3{
+    font-size: 26px;
+    color: #065273;
+}
+h3 span{
+    color: #95055b;
+}
