@@ -1,10 +1,8 @@
-// import Increment from "./Increment"
-import BMIcal from "./BMIcal"
+import Increment from "./Increment"
 const App = () => {
   return (
     <>
-        {/* <Increment /> */}
-        <BMIcal/>
+        <Increment />
     </>
   )
 }
